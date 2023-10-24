@@ -159,7 +159,7 @@ const HomePage = () => {
                   </div>
                 </div>
               </section>
-              <section className="w-full max-w-6xl px-8 pb-10 space-y-12 lg:-mt-10">
+              <section className="w-full max-w-6xl px-8 pb-10 space-y-12 lg:-mt-8">
                 <div className="flex justify-between w-full sm:space-x-12">
                   <div className="flex flex-col justify-center w-full space-y-12 sm:space-y-8 sm:w-2/3">
                     <div className="flex items-start justify-start w-full space-x-4 xs:items-center xs:space-x-8 sm:justify-center">
